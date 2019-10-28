@@ -12,7 +12,7 @@
     "cookieFromSharedState" : false,
     "cookieSharedStateValue" : "none",
     "useSecureCookie" : false,
-    "cookieStringValue" : "DC-B",
+    "cookieStringValue" : "DC-A",
     "maxLife" : 5,
     "cookieFromString" : true,
     "encodeCookieValue" : false,

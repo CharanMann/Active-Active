@@ -1,6 +1,6 @@
 {
-  "amPrimaryUrl": "http://am651.example.com:8086/am",
-  "amSecondaryUrl": "http://am651.example.com:8086/am",
+  "amPrimaryUrl": "http://am-B.example.com:8094/am",
+  "amSecondaryUrl": "http://am-A.example.com:8094/am",
   "amRealm": "/",
   "amAuthnRealm": "employees",
   "igAgentName": "IG",

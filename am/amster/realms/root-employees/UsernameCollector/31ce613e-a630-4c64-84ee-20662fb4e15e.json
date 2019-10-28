@@ -1,0 +1,17 @@
+{
+  "metadata" : {
+    "realm" : "/employees",
+    "amsterVersion" : "6.5.1",
+    "entityType" : "UsernameCollector",
+    "entityId" : "31ce613e-a630-4c64-84ee-20662fb4e15e",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "31ce613e-a630-4c64-84ee-20662fb4e15e",
+    "_type" : {
+      "_id" : "UsernameCollectorNode",
+      "name" : "Username Collector",
+      "collection" : true
+    }
+  }
+}
