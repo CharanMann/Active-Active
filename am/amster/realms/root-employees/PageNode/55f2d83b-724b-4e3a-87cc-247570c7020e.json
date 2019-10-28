@@ -1,0 +1,26 @@
+{
+  "metadata" : {
+    "realm" : "/employees",
+    "amsterVersion" : "6.5.1",
+    "entityType" : "PageNode",
+    "entityId" : "55f2d83b-724b-4e3a-87cc-247570c7020e",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "55f2d83b-724b-4e3a-87cc-247570c7020e",
+    "nodes" : [ {
+      "_id" : "31ce613e-a630-4c64-84ee-20662fb4e15e",
+      "nodeType" : "UsernameCollectorNode",
+      "displayName" : "Username Collector"
+    }, {
+      "_id" : "013d8761-2267-43cf-9e5e-01a794bd6d8d",
+      "nodeType" : "PasswordCollectorNode",
+      "displayName" : "Password Collector"
+    } ],
+    "_type" : {
+      "_id" : "PageNode",
+      "name" : "Page Node",
+      "collection" : true
+    }
+  }
+}

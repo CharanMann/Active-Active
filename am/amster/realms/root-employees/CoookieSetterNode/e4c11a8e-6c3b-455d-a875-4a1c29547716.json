@@ -1,0 +1,26 @@
+{
+  "metadata" : {
+    "realm" : "/employees",
+    "amsterVersion" : "6.5.1",
+    "entityType" : "CoookieSetterNode",
+    "entityId" : "e4c11a8e-6c3b-455d-a875-4a1c29547716",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "e4c11a8e-6c3b-455d-a875-4a1c29547716",
+    "useHttpOnlyCookie" : false,
+    "cookieFromSharedState" : false,
+    "cookieSharedStateValue" : "none",
+    "useSecureCookie" : false,
+    "cookieStringValue" : "DC-B",
+    "maxLife" : 5,
+    "cookieFromString" : true,
+    "encodeCookieValue" : false,
+    "cookieName" : "DataCenter",
+    "_type" : {
+      "_id" : "CoookieSetterNode",
+      "name" : "Cookie Setter Node",
+      "collection" : true
+    }
+  }
+}

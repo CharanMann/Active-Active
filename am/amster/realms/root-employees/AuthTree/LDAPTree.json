@@ -1,0 +1,38 @@
+{
+  "metadata" : {
+    "realm" : "/employees",
+    "amsterVersion" : "6.5.1",
+    "entityType" : "AuthTree",
+    "entityId" : "LDAPTree",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "LDAPTree",
+    "nodes" : {
+      "55f2d83b-724b-4e3a-87cc-247570c7020e" : {
+        "displayName" : "Page Node",
+        "nodeType" : "PageNode",
+        "connections" : {
+          "outcome" : "6bc90a3d-d54d-4857-a226-fb99df08ff8c"
+        }
+      },
+      "e4c11a8e-6c3b-455d-a875-4a1c29547716" : {
+        "displayName" : "Set DataCenter Cookie",
+        "nodeType" : "CoookieSetterNode",
+        "connections" : {
+          "true" : "70e691a5-1e33-4ac3-a356-e7b6d60d92e0",
+          "false" : "e301438c-0bd0-429c-ab0c-66126501069a"
+        }
+      },
+      "6bc90a3d-d54d-4857-a226-fb99df08ff8c" : {
+        "displayName" : "Data Store Decision",
+        "nodeType" : "DataStoreDecisionNode",
+        "connections" : {
+          "true" : "e4c11a8e-6c3b-455d-a875-4a1c29547716",
+          "false" : "e301438c-0bd0-429c-ab0c-66126501069a"
+        }
+      }
+    },
+    "entryNodeId" : "55f2d83b-724b-4e3a-87cc-247570c7020e"
+  }
+}
