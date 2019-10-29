@@ -11,6 +11,6 @@
     "parentPath" : null,
     "active" : true,
     "name" : "/",
-    "aliases" : [ "am-B.example.com", "am-A.example.com", "openam" ]
+    "aliases" : [ "am-A.example.com", "openam" ]
   }
 }
